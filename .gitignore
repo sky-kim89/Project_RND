@@ -1,0 +1,12 @@
+
+*.lock
+*.ide-wal
+*.ide-shm
+.vs/My project/v15/.suo
+*.ide
+.vsconfig
+Library/*
+Logs/*
+obj/*
+UserSettings/*
+*.sln
